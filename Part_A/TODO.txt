@@ -11,8 +11,7 @@
 - United Kingdom (2000, 2008, 2011)
 
 + plot Gantt
-- convert dates to year only
-- fill holes in dates (check survey id)
-- replot Gantt
++ fill holes in dates (check survey id)
++ replot Gantt
 
-- decide nations to analyze
++ decide nations to analyze
