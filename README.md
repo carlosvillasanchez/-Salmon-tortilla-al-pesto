@@ -1,4 +1,4 @@
-# Title
+# Preferences and consequences of diets across generations
 
 # Abstract
 One of the most important factors in human health is how we eat. Over time, the way we eat changes significantly. Given the rate of change of human nutrition, we would like to investigate how our eating habits change over the years and also the differences in food consumption between different age groups, as well as whether this causes a noticeable difference in the rates of various nutritional deficiencies over time.
