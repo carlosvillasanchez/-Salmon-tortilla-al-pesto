@@ -1,5 +1,5 @@
 # Preferences and consequences of diets across generations
-
+https://nbviewer.jupyter.org/github/carlosvillasanchez/Salmon-tortilla-al-pesto/blob/Part_A/
 # Abstract
 One of the most important factors in human health is how we eat. We would like to look at different diets of different countries, looking at the different types of food and drinks consumed, and see if we can draw conclusions about the healthiness of the different countries. To do this, we can compare the results with various health recommendations, such as the famous food pyramid. In doing this, we can perform an analysis that can uncover deficits and problems in a nation's diet, and develop a tool that can aid in correcting these problems.
 
