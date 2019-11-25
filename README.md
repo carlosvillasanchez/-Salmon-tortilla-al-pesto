@@ -47,4 +47,5 @@ The datasets we are going to use are the following:
 
 # Questions for TAa
 Following your recommendations, we decided to drop the Open Food Fact dataset.
+
 We would like to meet in person to discuss some questions and concerns we have.
