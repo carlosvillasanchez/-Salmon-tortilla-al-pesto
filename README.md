@@ -1,4 +1,4 @@
-# Preferences and consequences of diets across generations
+# Preferences and consequences of diets
 The data story can be found here: https://tormey97.github.io/food-datastory/
 
 The notebook we have delivered is FinalNotebook, a continuation of the Milestone 2 notebook. In case you cannot see the dynamic animations correctly, you can check the notebook here:
@@ -23,7 +23,7 @@ Certain health conditions are caused by malnutrition and nutritional deficits. A
 
 
 # Datasets
-The datasets we are going to use are the following:
+The datasets used are the following:
 - [EFSA Comprehensive European Food Consumption Database](http://data.europa.eu/euodp/en/data/dataset/the-efsa-comprehensive-european-food-consumption-database): It has a size of 300.000 rows and 96 columns, with information related to products consumed, in which country, in which year and by which group of age among other things.
 - [Recipe1M+](http://pic2recipe.csail.mit.edu): For the recipe data.
 
