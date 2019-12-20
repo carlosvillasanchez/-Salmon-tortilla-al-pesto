@@ -1,4 +1,5 @@
 # Preferences and consequences of diets across generations
+The data story can be found here: https://tormey97.github.io/food-datastory/
 The notebook we have delivered is FinalNotebook. In case you cannot see the dynamic animations correctly, you can check the notebook here:
 
 https://nbviewer.jupyter.org/github/carlosvillasanchez/Salmon-tortilla-al-pesto/blob/master/FinalNotebook.ipynb
