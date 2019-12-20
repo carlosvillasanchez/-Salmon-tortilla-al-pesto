@@ -35,3 +35,5 @@ Contributions of group members:
 - Fernando: Analysis of food consumption surveys, analysis of diet complexity, clustering of recipes
 - Carlos: Analysis of the recipes dataset, analysis of diets, writing the data story 
 - Torstein: Analysis of relationships between ingredients, development of the webpage and the data story
+
+Every member of the team will work on the final presentation.
