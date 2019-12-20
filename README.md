@@ -47,7 +47,11 @@ The datasets we are going to use are the following:
 - Work on the jupyter notebook to make it readable for people outside the team.
 
 
-# Questions for TAa
-Following your recommendations, we decided to drop the Open Food Fact dataset.
+# Milestone 3
 
-We would like to meet in person to discuss some questions and concerns we have.
+Contributions of group members:
+
+- Davide: Analysis of food consumption surveys, plotting for food consumption surveys, writing the introduction
+- Fernando: Analysis of food consumption surveys, analysis of diet complexity, clustering of recipes
+- Carlos: Analysis of the recipes dataset, analysis of diets, writing the data story 
+- Torstein: Analysis of relationships between ingredients, development of the webpage and the data story
