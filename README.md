@@ -1,7 +1,7 @@
 # Preferences and consequences of diets
 The data story can be found here: https://tormey97.github.io/food-datastory/
 
-The notebook we have delivered is FinalNotebook, a continuation of the Milestone 2 notebook. In case you cannot see the dynamic animations correctly, you can check the notebook here:
+The notebook with the analysis work is FinalNotebook. In case you cannot see the dynamic animations correctly, you can check the notebook here:
 
 https://nbviewer.jupyter.org/github/carlosvillasanchez/Salmon-tortilla-al-pesto/blob/master/FinalNotebook.ipynb
 
@@ -28,12 +28,9 @@ The datasets used are the following:
 - [Recipe1M+](http://pic2recipe.csail.mit.edu): For the recipe data.
 
 
-# Milestone 3
-Contributions of group members:
+# Tema members
 
 - Davide: Analysis of food consumption surveys, plotting for food consumption surveys, writing the introduction
 - Fernando: Analysis of food consumption surveys, analysis of diet complexity, clustering of recipes
 - Carlos: Analysis of the recipes dataset, analysis of diets, writing the data story 
 - Torstein: Analysis of relationships between ingredients, development of the webpage and the data story
-
-Every member of the team will work on the final presentation.
